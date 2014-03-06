@@ -15,7 +15,6 @@
 #
 ############################################################################
 
-#CFLAGS = -O -Wall
 MFLOAT          = hard
 AR              = arm-none-linux-gnueabi-ar
 CC              = arm-none-linux-gnueabi-gcc
